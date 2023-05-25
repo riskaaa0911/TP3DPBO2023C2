@@ -15,9 +15,10 @@ ditampilkan dalam bentuk tabel (seperti contoh saat praktikum)
 * Menggunakan template/skin tabel yang sama untuk menampilkan tabel
 
 ## Desain dan Alur Program
-<img width="532" alt="desain_database" src="https://github.com/riskaaa0911/TP3DPBO2023C2/assets/119839421/48a1c324-013d-4ef7-9c96-cf7fe473d307">
+<img width="532" alt="desain_database" src="https://github.com/riskaaa0911/TP3DPBO2023C2/assets/119839421/3e3db4b7-7333-48f7-a8af-9b0629fa2c87">
 
-Program ini adalah program tentang Drama Korea. Terdapat 3 tabel pada program yaitu tabel drama, writer, dan produksi dari drama
+Program ini adalah program tentang Drama Korea. Terdapat 3 tabel pada program yaitu tabel drama, writer, dan produksi dari drama yang saling berhubungan.
+Pada Program ini terdapat fitur untuk menampilkan, menambah, mengubah atau mengedit dan menghapus data drama, writer dan produksi drama. Terdapat juga fitur untuk melakukan pencarian judul drama. Selain itu, terdapat sorting untuk tabel drama dimana sorting bisa dilakukan berdasarkan judul drama, nama writer dan juga nama produksi secara ascending. Untuk menambahkan dan mengedit image harus image yang terdapat dalam folder images.
 
 
 ## Dokumentasi
